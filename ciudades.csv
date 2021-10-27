@@ -1,7 +1,7 @@
 city,latitude,longitude,country,iso2,admin_name,capital,population,population_proper
-Madrid,40.167,-37.167,Spain,ES,Madrid,primary,6026000,3266126
+Madrid,40.4381311,-3.8196196,Spain,ES,Madrid,primary,6026000,3266126
 Barcelona,41.3825,2.1769,Spain,ES,Catalonia,admin,4588000,1620343
-Las Palmas,28.1272,-15.4314,Spain,ES,Canary Islands,admin,381223,381223
+Las Palmas,28.1037191,-15.5319739,Spain,ES,Canary Islands,admin,381223,381223
 Logroño,42.4650,-2.4456,Spain,ES,La Rioja,admin,197000,152485
 Mérida,38.9000,-6.3333,Spain,ES,Extremadura,admin,59548,59548
 Murcia,37.9805,-1.1621,Spain,ES,Murcia,admin,502000,459403
