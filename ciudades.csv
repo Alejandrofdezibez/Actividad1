@@ -1,4 +1,4 @@
-city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+city,latitude,longuitude,country,iso2,admin_name,capital,population,population_proper
 Madrid,404.167,-37.167,Spain,ES,Madrid,primary,6026000,3266126
 Barcelona,413.825,2.1769,Spain,ES,Catalonia,admin,4588000,1620343
 Las Palmas,281.272,-154.314,Spain,ES,Canary Islands,admin,381223,381223
