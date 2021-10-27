@@ -1,19 +1,19 @@
 city,latitude,longitude,country,iso2,admin_name,capital,population,population_proper
-Madrid,404.167,-37.167,Spain,ES,Madrid,primary,6026000,3266126
-Barcelona,413.825,2.1769,Spain,ES,Catalonia,admin,4588000,1620343
-Las Palmas,281.272,-154.314,Spain,ES,Canary Islands,admin,381223,381223
-Logroño,424.650,-24.456,Spain,ES,La Rioja,admin,197000,152485
-Mérida,389.000,-63.333,Spain,ES,Extremadura,admin,59548,59548
-Murcia,379.861,-11.303,Spain,ES,Murcia,admin,502000,459403
-Oviedo,433.600,-58.450,Spain,ES,Asturias,admin,219910,219910
-Palma,395.667,2.6500,Spain,ES,Balearic Islands,admin,550000,422587
-Pamplona,428.167,-16.500,Spain,ES,Navarre,admin,203944,203944
-Santa Cruz,284.667,-162.500,Spain,ES,Canary Islands,admin,209194,209194
-Santander,434.628,-38.050,Spain,ES,Cantabria,admin,173375,173375
-Santiago de Compostela,428.778,-85.444,Spain,ES,Galicia,admin,92430,83012
-Sevilla,373.900,-59.900,Spain,ES,Andalusia,admin,1107000,1107000
-Toledo,398.567,-40.244,Spain,ES,Castille-La Mancha,admin,85811,85811
-Valencia,394.700,-3.764,Spain,ES,Valencia,admin,800215,800215
-Valladolid,416.528,-47.236,Spain,ES,Castille-Leon,admin,299265,299265
-Vitoria-Gasteiz,428.500,-26.833,Spain,ES,Basque Country,admin,253996,253996
-Zaragoza,416.483,-8.830,Spain,ES,Aragon,admin,649404,448507
+Madrid,40.167,-37.167,Spain,ES,Madrid,primary,6026000,3266126
+Barcelona,41.3825,2.1769,Spain,ES,Catalonia,admin,4588000,1620343
+Las Palmas,28.1272,-15.4314,Spain,ES,Canary Islands,admin,381223,381223
+Logroño,42.4650,-2.4456,Spain,ES,La Rioja,admin,197000,152485
+Mérida,38.9000,-6.3333,Spain,ES,Extremadura,admin,59548,59548
+Murcia,37.9805,-1.1621,Spain,ES,Murcia,admin,502000,459403
+Oviedo,43.3695,-5.8661,Spain,ES,Asturias,admin,219910,219910
+Palma,39.5700,2.6457,Spain,ES,Balearic Islands,admin,550000,422587
+Pamplona,42.8157,-1.6675312,Spain,ES,Navarre,admin,203944,203944
+Santa Cruz,28.457857,-16.3038441,Spain,ES,Canary Islands,admin,209194,209194
+Santander,43.4613742,-3.8286466,Spain,ES,Cantabria,admin,173375,173375
+Santiago de Compostela,42.8802351,-8.5622792,Spain,ES,Galicia,admin,92430,83012
+Sevilla,37.3754338,-5.9900776,Spain,ES,Andalusia,admin,1107000,1107000
+Toledo,39.8622699,-4.0344493,Spain,ES,Castille-La Mancha,admin,85811,85811
+Valencia,39.4078969,-0.431511764,Spain,ES,Valencia,admin,800215,800215
+Valladolid,41.7033604,-4.8788517,Spain,ES,Castille-Leon,admin,299265,299265
+Vitoria-Gasteiz,42.8540671,-2.6946677,Spain,ES,Basque Country,admin,253996,253996
+Zaragoza,41.6517501,-0.9300003,Spain,ES,Aragon,admin,649404,448507
